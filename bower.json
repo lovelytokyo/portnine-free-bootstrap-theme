@@ -1,0 +1,13 @@
+{
+  "name": "portnine-free-bootstrap-theme",
+  "version": "0.0.0",
+  "homepage": "https://github.com/lovelytokyo/portnine-free-bootstrap-theme",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "*.html"
+  ]
+}
